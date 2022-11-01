@@ -1,4 +1,3 @@
-
 from telebot import TeleBot
 from modules.read_data import read_data
 from modules.new_data import new_data
