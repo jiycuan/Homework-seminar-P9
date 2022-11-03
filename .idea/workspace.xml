@@ -2,24 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25b8cdea-3470-4f46-b697-870ca3ac3bd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework-seminar-P9" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directory/MyBad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directory/modules/export_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/directory/modules/new_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/x_o/x_o.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Homework-seminar-P9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Homework-seminar-P9.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyBad.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database.txt" beforeDir="false" afterPath="$PROJECT_DIR$/directory/database.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/export_result.txt" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/calc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/export_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/import_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/directory/modules/import_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/new_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/read_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/directory/modules/read_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/directory/modules/ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directory/MyBad.py" beforeDir="false" afterPath="$PROJECT_DIR$/directory/MyBad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directory/database.txt" beforeDir="false" afterPath="$PROJECT_DIR$/directory/database.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directory/modules/export_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/directory/modules/import_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/directory/modules/import_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directory/modules/new_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/directory/modules/new_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/directory/modules/ui.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
