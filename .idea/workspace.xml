@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25b8cdea-3470-4f46-b697-870ca3ac3bd4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/calculator/modules/chek.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/calc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calculator/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calculator/modules/addition.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/modules/addition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/modules/degree.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/modules/degree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/modules/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/modules/logger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/modules/multiplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/modules/multiplication.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/modules/subtraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/modules/subtraction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/x_o/x_o.py" beforeDir="false" afterPath="$PROJECT_DIR$/x_o/x_o.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator/modules/chek.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/modules/chek.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
