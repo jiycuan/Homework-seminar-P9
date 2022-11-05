@@ -52,4 +52,5 @@ def x_o_game():
         fill_square(field)
         player = change_players(player)
 
+
 x_o_game()
