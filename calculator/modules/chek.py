@@ -1,20 +1,26 @@
 def chek_natural(nums):
     natural = []
-    point = "."
     for i in range(0, len(nums)):
         temp = str(nums[i])
-        if point in temp or temp.isdigit():
+        if temp.replace('.', '').isdigit():
             natural.append(temp)
     return natural
 
 
 def chek_imagine(nums):
     imagine = []
-    point = "."
     for i in range(0, len(nums)):
         temp = str(nums[i])
-        if point in temp or temp.isdigit():
+        if temp.replace('.', '').isdigit():
             continue
         else:
             imagine.append(temp)
     return imagine
+
+
+def eazy_chek(nums):
+    if nums.replace('.', '').isdigit():
+        result = float(nums)
+    else:
+        result = complex(nums)
+    return result

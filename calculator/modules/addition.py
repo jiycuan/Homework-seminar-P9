@@ -1,5 +1,6 @@
-from chek import chek_natural
-from chek import chek_imagine
+from modules.chek import chek_natural
+from modules.chek import chek_imagine
+
 
 def addition(nums):
     nums = nums.replace(",", ".")
@@ -29,16 +30,19 @@ def addition_natural(nums):
 def addition_imagine(nums):
     temp = list(nums[0])
     last_imagine = temp[len(temp) - 1]
+    answer = 0
     if len(nums) == 1:
         result = str(nums[0])
     else:
         for i in range(0, len(nums)):
-            temp_new = list(nums[0])
-            last_imagine_new = temp[len(temp) - 1]
+            temp_new = list(nums[i])
+            last_imagine_new = temp_new[len(temp_new) - 1]
             if last_imagine == last_imagine_new:
-                del temp_new[len(temp) - 1]
-                temp_new = ("".join(temp))
-                answer = int(temp_new)
-
-
+                del temp_new[len(temp_new) - 1]
+                temp_new = ("".join(temp_new))
+                answer = answer + int(temp_new)
+                result = str(answer)+str(last_imagine_new)
+            else:
+                result = "Ошибка. Калькулятор не вычитает комплексные числа разных типов"
+                break
     return result
