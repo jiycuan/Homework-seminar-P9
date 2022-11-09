@@ -6,7 +6,7 @@ from modules.new_data import new_data
 from modules.import_data import import_data
 
 
-bot = TeleBot('5771267528:AAEpt6yUkxZcavAtrnYz7PLlgrM9eqCa6sI')
+bot = TeleBot('')
 
 
 @bot.message_handler(commands=['start'])
