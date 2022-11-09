@@ -7,7 +7,7 @@ from modules.degree import degree
 from modules.logger import logs
 
 
-bot = TeleBot('5492834496:AAG2wn4wbnWNpAWfYcBf9M8sx3NNMEAsFKg')
+bot = TeleBot('')
 
 
 @bot.message_handler(commands=['start'])
